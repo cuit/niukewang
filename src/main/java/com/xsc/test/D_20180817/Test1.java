@@ -9,6 +9,8 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 
 /**
+ * 给定无序整数序列，求其中第K大的数，例如{45，67，33，21}，第2大数为45
+ *
  * @author shichao.xia
  * @date 2018/8/17 上午11:14
  */
