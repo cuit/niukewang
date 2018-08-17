@@ -1,4 +1,4 @@
-package com.xsc.test.D_20180817;
+package com.xsc.test.DIDI2018;
 
 import java.util.Scanner;
 
