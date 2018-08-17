@@ -30,7 +30,7 @@ public class Test1 {
                     return o2-o1;
                 }
             }).collect(Collectors.toList());
-            System.out.println(sortList.get(k));
+            System.out.println(sortList.get(k-1));
         }
     }
 }
